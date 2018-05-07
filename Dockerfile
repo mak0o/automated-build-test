@@ -1,2 +1,2 @@
-FROM my_whalesay
+FROM ubuntu
 ENV AUTHOR="tonko"
